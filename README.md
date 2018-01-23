@@ -10,5 +10,5 @@ the user gives his year of birth, the application answers by giving him his age
 
 # secondTry
 
-now if we click for the second time on the button his value change from "get ur age" to "u just clicked me, look in the buttom to get ur age"
+now if we click for the second time on the button his value change from "get ur age" to "u just clicked me, look in the buttom to see ur age"
 
