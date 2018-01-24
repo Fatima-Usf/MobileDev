@@ -21,7 +21,7 @@ public class Main3Activity extends AppCompatActivity {
 
     public void backk(View view) {
 
-        Intent myint = new Intent(this, Main2Activity.class);
-        startActivity(myint);
+        Intent in = new Intent(this, Main2Activity.class);
+        startActivity(in);
     }
 }
