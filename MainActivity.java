@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         busmit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                busmit.setText("u clicked me,look in the buttom");
+                busmit.setText("u just clicked me,look in the buttom to see ur age");
             }
         });
 
