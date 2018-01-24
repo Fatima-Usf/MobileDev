@@ -13,3 +13,5 @@ the user gives his year of birth, the application answers by giving him his age
 now if we click for the second time on the button his value change from "get ur age" to "u just clicked me, look in the buttom to see ur age"
 # day3
 add new activities,the user enter his name and his password, when he click login his data appears in another activity
+![a1](https://user-images.githubusercontent.com/22420836/35328871-10c04056-00fe-11e8-9d98-9584334751cb.png)
+![a2](https://user-images.githubusercontent.com/22420836/35328876-163eb3a0-00fe-11e8-8c57-697ce4fa24a6.png)
